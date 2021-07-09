@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611621889583",
+    "project_id": "massroufidev",
+    "storage_bucket": "massroufidev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611621889583:android:d24fb1e94f068a4455c8da",
+        "android_client_info": {
+          "package_name": "com.example.daily_spending"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611621889583-7ea6emvokmkmlqfl13mqki1jhg23mvgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj6_R7CohTTQ_aCVoVExiumTmeK0IhaTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611621889583-7ea6emvokmkmlqfl13mqki1jhg23mvgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
